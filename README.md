@@ -8,3 +8,8 @@ In text encryption mode you have the option to create your own templates with th
 In file encryption mode you only have to fill in the boxes with the value you want, there is no limit. When requesting a reference, it gives you the option to enter characters in the encryption and to be decrypted you will have to insert the same reference.
 
 Available for all languages.
+
+Any suggestions you may have can be communicated at:
+livencrypt1@gmail.com
+x.com @Livencrypt1
+discord.gg/sDRawvyXhy
