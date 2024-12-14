@@ -11,5 +11,5 @@ Available for all languages.
 
 Any suggestions you may have can be communicated at:
 livencrypt1@gmail.com
-x.com @Livencrypt1
+[x.com @Livencrypt1](https://x.com/Livencrypt1)
 discord.gg/sDRawvyXhy
